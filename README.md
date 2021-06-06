@@ -4,9 +4,9 @@
 
 ### Описание
 
-- Модель Юзера : [User](https://github.com/text/Test/blob/main/app/src/main/java/com/beardness/testcasesferazonebyandy/models/User.kt)
-- Главный Активити : [MainActivity](https://github.com/andybeardness/TestCaseSferaZoneByAndy/blob/main/app/src/main/java/com/beardness/testcasesferazonebyandy/ui/MainActivity.kt)
-- Unit-тест для Юзера : [UserUnitText](https://github.com/andybeardness/TestCaseSferaZoneByAndy/blob/main/app/src/test/java/com/beardness/testcasesferazonebyandy/UserUnitText.kt)
+- Модель Юзера : [User](https://github.com/patrik228/Test/blob/main/app/src/main/java/com/test/test/models/User.kt)
+- Главный Активити : [MainActivity](https://github.com/patrik228/Test/blob/main/app/src/main/java/com/test/test/ui/MainActivity.kt)
+- Unit-тест для Юзера : [UserUnitText](https://github.com/patrik228/Test/blob/main/app/src/test/java/com/test/test/UserUnitText.kt)
 
 В коде главного активити создаю восемь юзеров и добавляю в ArrayList. Четыре из которых старше 18 лет, а четыре младше:
 
@@ -44,4 +44,4 @@ mTextView.text = filteredUsers.joinToString(separator = "\n")
 
 ### Скриншот
 
-![Screenshot](https://github.com/andybeardness/Test/blob/main/screenshots/0.png)
+![Screenshot](https://github.com/patrik228/Test/blob/main/screenshots/0.png)
